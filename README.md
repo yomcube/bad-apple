@@ -1,3 +1,6 @@
+# Table of Contents
+- [ClassiCube + MCGalaxy](#classicube--mcgalaxy)
+
 # ClassiCube + MCGalaxy
 
 ## Prerequisites
